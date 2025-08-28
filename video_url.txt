@@ -1,0 +1,5 @@
+Player URL:
+https://bungir23.github.io/player/?list=https://raw.githubusercontent.com/bungir23/d362bfdb23a77bc3/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/bungir23/d362bfdb23a77bc3/refs/heads/master/github_master.m3u8
